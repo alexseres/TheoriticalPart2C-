@@ -1,0 +1,13 @@
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial11Collections\bin\Debug\netcoreapp3.1\Tutorial11Collections.exe
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial11Collections\bin\Debug\netcoreapp3.1\Tutorial11Collections.deps.json
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial11Collections\bin\Debug\netcoreapp3.1\Tutorial11Collections.runtimeconfig.json
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial11Collections\bin\Debug\netcoreapp3.1\Tutorial11Collections.runtimeconfig.dev.json
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial11Collections\bin\Debug\netcoreapp3.1\Tutorial11Collections.dll
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial11Collections\bin\Debug\netcoreapp3.1\Tutorial11Collections.pdb
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial11Collections\obj\Debug\netcoreapp3.1\Tutorial11Collections.csprojAssemblyReference.cache
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial11Collections\obj\Debug\netcoreapp3.1\Tutorial11Collections.AssemblyInfoInputs.cache
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial11Collections\obj\Debug\netcoreapp3.1\Tutorial11Collections.AssemblyInfo.cs
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial11Collections\obj\Debug\netcoreapp3.1\Tutorial11Collections.csproj.CoreCompileInputs.cache
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial11Collections\obj\Debug\netcoreapp3.1\Tutorial11Collections.dll
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial11Collections\obj\Debug\netcoreapp3.1\Tutorial11Collections.pdb
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial11Collections\obj\Debug\netcoreapp3.1\Tutorial11Collections.genruntimeconfig.cache

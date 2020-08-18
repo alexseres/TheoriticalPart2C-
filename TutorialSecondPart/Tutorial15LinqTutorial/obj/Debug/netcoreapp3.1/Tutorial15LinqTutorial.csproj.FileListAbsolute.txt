@@ -1,0 +1,13 @@
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial15LinqTutorial\bin\Debug\netcoreapp3.1\Tutorial15LinqTutorial.exe
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial15LinqTutorial\bin\Debug\netcoreapp3.1\Tutorial15LinqTutorial.deps.json
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial15LinqTutorial\bin\Debug\netcoreapp3.1\Tutorial15LinqTutorial.runtimeconfig.json
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial15LinqTutorial\bin\Debug\netcoreapp3.1\Tutorial15LinqTutorial.runtimeconfig.dev.json
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial15LinqTutorial\bin\Debug\netcoreapp3.1\Tutorial15LinqTutorial.dll
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial15LinqTutorial\bin\Debug\netcoreapp3.1\Tutorial15LinqTutorial.pdb
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial15LinqTutorial\obj\Debug\netcoreapp3.1\Tutorial15LinqTutorial.csprojAssemblyReference.cache
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial15LinqTutorial\obj\Debug\netcoreapp3.1\Tutorial15LinqTutorial.AssemblyInfoInputs.cache
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial15LinqTutorial\obj\Debug\netcoreapp3.1\Tutorial15LinqTutorial.AssemblyInfo.cs
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial15LinqTutorial\obj\Debug\netcoreapp3.1\Tutorial15LinqTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial15LinqTutorial\obj\Debug\netcoreapp3.1\Tutorial15LinqTutorial.dll
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial15LinqTutorial\obj\Debug\netcoreapp3.1\Tutorial15LinqTutorial.pdb
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial15LinqTutorial\obj\Debug\netcoreapp3.1\Tutorial15LinqTutorial.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial10Interfaces\bin\Debug\netcoreapp3.1\Tutorial10Interfaces.exe
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial10Interfaces\bin\Debug\netcoreapp3.1\Tutorial10Interfaces.deps.json
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial10Interfaces\bin\Debug\netcoreapp3.1\Tutorial10Interfaces.runtimeconfig.json
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial10Interfaces\bin\Debug\netcoreapp3.1\Tutorial10Interfaces.runtimeconfig.dev.json
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial10Interfaces\bin\Debug\netcoreapp3.1\Tutorial10Interfaces.dll
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial10Interfaces\bin\Debug\netcoreapp3.1\Tutorial10Interfaces.pdb
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial10Interfaces\obj\Debug\netcoreapp3.1\Tutorial10Interfaces.csprojAssemblyReference.cache
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial10Interfaces\obj\Debug\netcoreapp3.1\Tutorial10Interfaces.AssemblyInfoInputs.cache
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial10Interfaces\obj\Debug\netcoreapp3.1\Tutorial10Interfaces.AssemblyInfo.cs
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial10Interfaces\obj\Debug\netcoreapp3.1\Tutorial10Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial10Interfaces\obj\Debug\netcoreapp3.1\Tutorial10Interfaces.dll
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial10Interfaces\obj\Debug\netcoreapp3.1\Tutorial10Interfaces.pdb
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial10Interfaces\obj\Debug\netcoreapp3.1\Tutorial10Interfaces.genruntimeconfig.cache

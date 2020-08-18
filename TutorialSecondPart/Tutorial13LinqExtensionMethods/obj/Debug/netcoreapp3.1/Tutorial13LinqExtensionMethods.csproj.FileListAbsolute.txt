@@ -1,0 +1,13 @@
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial13LinqExtensionMethods\bin\Debug\netcoreapp3.1\Tutorial13LinqExtensionMethods.exe
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial13LinqExtensionMethods\bin\Debug\netcoreapp3.1\Tutorial13LinqExtensionMethods.deps.json
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial13LinqExtensionMethods\bin\Debug\netcoreapp3.1\Tutorial13LinqExtensionMethods.runtimeconfig.json
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial13LinqExtensionMethods\bin\Debug\netcoreapp3.1\Tutorial13LinqExtensionMethods.runtimeconfig.dev.json
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial13LinqExtensionMethods\bin\Debug\netcoreapp3.1\Tutorial13LinqExtensionMethods.dll
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial13LinqExtensionMethods\bin\Debug\netcoreapp3.1\Tutorial13LinqExtensionMethods.pdb
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial13LinqExtensionMethods\obj\Debug\netcoreapp3.1\Tutorial13LinqExtensionMethods.csprojAssemblyReference.cache
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial13LinqExtensionMethods\obj\Debug\netcoreapp3.1\Tutorial13LinqExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial13LinqExtensionMethods\obj\Debug\netcoreapp3.1\Tutorial13LinqExtensionMethods.AssemblyInfo.cs
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial13LinqExtensionMethods\obj\Debug\netcoreapp3.1\Tutorial13LinqExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial13LinqExtensionMethods\obj\Debug\netcoreapp3.1\Tutorial13LinqExtensionMethods.dll
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial13LinqExtensionMethods\obj\Debug\netcoreapp3.1\Tutorial13LinqExtensionMethods.pdb
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial13LinqExtensionMethods\obj\Debug\netcoreapp3.1\Tutorial13LinqExtensionMethods.genruntimeconfig.cache

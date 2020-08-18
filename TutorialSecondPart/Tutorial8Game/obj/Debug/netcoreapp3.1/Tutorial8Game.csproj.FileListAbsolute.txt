@@ -1,0 +1,13 @@
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial8Game\bin\Debug\netcoreapp3.1\Tutorial8Game.exe
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial8Game\bin\Debug\netcoreapp3.1\Tutorial8Game.deps.json
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial8Game\bin\Debug\netcoreapp3.1\Tutorial8Game.runtimeconfig.json
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial8Game\bin\Debug\netcoreapp3.1\Tutorial8Game.runtimeconfig.dev.json
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial8Game\bin\Debug\netcoreapp3.1\Tutorial8Game.dll
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial8Game\bin\Debug\netcoreapp3.1\Tutorial8Game.pdb
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial8Game\obj\Debug\netcoreapp3.1\Tutorial8Game.csprojAssemblyReference.cache
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial8Game\obj\Debug\netcoreapp3.1\Tutorial8Game.AssemblyInfoInputs.cache
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial8Game\obj\Debug\netcoreapp3.1\Tutorial8Game.AssemblyInfo.cs
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial8Game\obj\Debug\netcoreapp3.1\Tutorial8Game.csproj.CoreCompileInputs.cache
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial8Game\obj\Debug\netcoreapp3.1\Tutorial8Game.dll
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial8Game\obj\Debug\netcoreapp3.1\Tutorial8Game.pdb
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial8Game\obj\Debug\netcoreapp3.1\Tutorial8Game.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial12Generics\bin\Debug\netcoreapp3.1\Tutorial12Generics.exe
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial12Generics\bin\Debug\netcoreapp3.1\Tutorial12Generics.deps.json
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial12Generics\bin\Debug\netcoreapp3.1\Tutorial12Generics.runtimeconfig.json
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial12Generics\bin\Debug\netcoreapp3.1\Tutorial12Generics.runtimeconfig.dev.json
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial12Generics\bin\Debug\netcoreapp3.1\Tutorial12Generics.dll
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial12Generics\bin\Debug\netcoreapp3.1\Tutorial12Generics.pdb
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial12Generics\obj\Debug\netcoreapp3.1\Tutorial12Generics.csprojAssemblyReference.cache
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial12Generics\obj\Debug\netcoreapp3.1\Tutorial12Generics.AssemblyInfoInputs.cache
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial12Generics\obj\Debug\netcoreapp3.1\Tutorial12Generics.AssemblyInfo.cs
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial12Generics\obj\Debug\netcoreapp3.1\Tutorial12Generics.csproj.CoreCompileInputs.cache
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial12Generics\obj\Debug\netcoreapp3.1\Tutorial12Generics.dll
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial12Generics\obj\Debug\netcoreapp3.1\Tutorial12Generics.pdb
+C:\Users\Alex\RiderProjects\TutorialSecondPart\Tutorial12Generics\obj\Debug\netcoreapp3.1\Tutorial12Generics.genruntimeconfig.cache
